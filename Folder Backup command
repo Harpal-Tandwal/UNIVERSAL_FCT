@@ -1,0 +1,1 @@
+robocopy "D:\Projects" "E:\Backup\Projects" /E /XO /R:2 /W:5 /COPY:DAT
